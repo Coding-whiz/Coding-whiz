@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coding-whiz
 - 👀 I’m interested in web dev and public speaking
 - 🌱 I’m currently learning data structures
-- 📫 u can be in touch with ne through linkedIn
+- 📫 u can be in touch with me through linkedIn
 
 <!---
 Coding-whiz/Coding-whiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
